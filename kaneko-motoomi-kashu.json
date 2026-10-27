@@ -6,7 +6,12 @@
  "category": "近代歌集",
  "kind": "kashu",
  "author": "金子元臣",
- "description": null,
+ "description": {
+  "kind": "家集（近代の歌集）",
+  "era": "昭和時代",
+  "author": "金子元臣",
+  "desc": "国文学者・歌人金子元臣の歌集。"
+ },
  "editions": [
   {
    "pid": "1127872",
